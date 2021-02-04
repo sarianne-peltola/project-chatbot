@@ -9,6 +9,9 @@ body {
   background: #0026ff;
 }
 
+/* TRAVEL PLANNER LAUNCH*/
+
+
 h1 {
   font-weight: bold;
   font-size: 44px;
@@ -63,7 +66,7 @@ main {
 
 .chat {
   flex: 1;
-  display: flex;
+  display: flex;  
   justify-content: flex-start;
   overflow: scroll;
   flex-direction: column;
